@@ -1,6 +1,16 @@
-### Hi there 👋
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+# Intro
+<hr>
+##### Let's be an expert in machine learning and deep learning based on Python! ✊
+<br><hr>
+### Languages 
+<hr>
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=yellow) ![Nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Node.js&logoColor=green) ![HTML](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=HTML5&logoColor=orange) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white)
 
+### Current Progress
+<hr><br>
+![Flask](https://img.shields.io/badge/Flask-0151C2?style=plastic&logo=Flask&logoColor=white&link=https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK)
+Configuring Web-page through Flask 
+- Machine learning, Selenium, Crawling, etc...
 <!--
 **HYUNSOOLEE-6839/HYUNSOOLEE-6839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
