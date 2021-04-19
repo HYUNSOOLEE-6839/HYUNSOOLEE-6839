@@ -4,7 +4,7 @@
 <br><hr>
 ### Languages 
 <hr>
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=yellow) ![Nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Node.js&logoColor=green) ![HTML](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=HTML5&logoColor=orange) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white)
+(https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=yellow) ![Nodejs](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Node.js&logoColor=green) ![HTML](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=HTML5&logoColor=orange) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white)
 
 ### Current Progress
 <hr><br>
