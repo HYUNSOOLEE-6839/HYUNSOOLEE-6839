@@ -3,7 +3,7 @@
 
 ### Main Stack
 
-<img src="https://img.shields.io/badge/PYTHON?style=plastic&logo=Python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### Sub Stack
 
