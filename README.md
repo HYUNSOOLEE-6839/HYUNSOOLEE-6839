@@ -7,7 +7,7 @@
 
 ### Sub Stack
 
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-0696D7?style=plastic&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-0696D7?&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Current Progress
 
