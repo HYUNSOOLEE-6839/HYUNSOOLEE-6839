@@ -20,8 +20,8 @@
 <hr>
 
 ### Current Progress
-
-<img src="https://img.shields.io/badge/Flask-0151C2?style=plastic&logo=Flask&logoColor=white&link=https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK"/>
+<a href="https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK">
+<img src="https://img.shields.io/badge/Flask-0151C2?style=plastic&logo=Flask&logoColor=white&link=https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK"/></a>
 Configuring Web-page through Flask 
 - Machine learning, Selenium, Crawling, etc...
 
