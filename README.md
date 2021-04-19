@@ -15,13 +15,7 @@
 
 ### GitHub Stats
 
-![HYUNSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSOOLEE-6839) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNSOOLEE-6839&layout=compact)
-
-<hr>
-
-### Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNSOOLEE-6839&layout=compact)
+![HYUNSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSOOLEE-6839)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNSOOLEE-6839&layout=compact)
 
 <hr>
 
