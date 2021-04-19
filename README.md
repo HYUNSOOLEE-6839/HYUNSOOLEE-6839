@@ -3,11 +3,11 @@
 
 ### Main Stack
 
-<img src="https://img.shields.io/badge/Python-2366AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-0000D7?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### Sub Stack
 
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-06D7?&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-004225?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-1647G7?&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/MySQL-848482?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Current Progress
 
