@@ -1,4 +1,5 @@
 ### Hi there 👋
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 
 <!--
 **HYUNSOOLEE-6839/HYUNSOOLEE-6839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
