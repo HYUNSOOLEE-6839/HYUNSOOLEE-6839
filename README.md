@@ -5,9 +5,13 @@
 
 <img src="https://img.shields.io/badge/Python-0000D7?style=flat-square&logo=Python&logoColor=yellow"/></a>
 
+<hr>
+
 ### Sub Stack
 
 <img src="https://img.shields.io/badge/NodeJS-004225?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-1647G7?&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/MySQL-848482?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<hr>
 
 ### Current Progress
 
@@ -15,12 +19,13 @@
 Configuring Web-page through Flask 
 - Machine learning, Selenium, Crawling, etc...
 
-
+<hr>
 
 ### GitHub Stats
 
 ![HYUNSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSOOLEE-6839)
 
+<hr>
 
 ### Top Langs
 
