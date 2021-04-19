@@ -13,14 +13,6 @@
 
 <hr>
 
-### Current Progress
-
-<img src="https://img.shields.io/badge/Flask-0151C2?style=plastic&logo=Flask&logoColor=white&link=https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK"/>
-Configuring Web-page through Flask 
-- Machine learning, Selenium, Crawling, etc...
-
-<hr>
-
 ### GitHub Stats
 
 ![HYUNSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSOOLEE-6839)
@@ -30,3 +22,13 @@ Configuring Web-page through Flask
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNSOOLEE-6839&layout=compact)
+
+<hr>
+
+### Current Progress
+
+<img src="https://img.shields.io/badge/Flask-0151C2?style=plastic&logo=Flask&logoColor=white&link=https://github.com/HYUNSOOLEE-6839/WEB_via_FLASK"/>
+Configuring Web-page through Flask 
+- Machine learning, Selenium, Crawling, etc...
+
+<hr>
